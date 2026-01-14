@@ -1,0 +1,48 @@
+{
+  "cachedStatsigGates": {
+    "tengu_prompt_suggestion": true,
+    "tengu_vscode_review_upsell": false,
+    "tengu_year_end_2025_campaign_promo": false
+  },
+  "cachedDynamicConfigs": {
+    "tengu_1p_event_batch_config": {
+      "scheduledDelayMillis": 5000,
+      "maxExportBatchSize": 200,
+      "maxQueueSize": 8192
+    }
+  },
+  "cachedGrowthBookFeatures": {
+    "tengu_mcp_tool_search": false,
+    "tengu_disable_bypass_permissions_mode": false,
+    "strawberry_granite_flag": "N/A",
+    "persimmon_marble_flag": "N/A",
+    "tengu_tool_pear": false,
+    "tengu_thinkback": false,
+    "tengu_ant_attribution_header_new": true,
+    "tengu_c4w_usage_limit_notifications_enabled": true
+  },
+  "userID": "498ebfa2ae44916f45b8c734d3795c98dfe564c227e2e5dff332808d9cd4b868",
+  "firstStartTime": "2025-12-21T22:07:18.781Z",
+  "sonnet45MigrationComplete": true,
+  "opus45MigrationComplete": true,
+  "thinkingMigrationComplete": true,
+  "githubRepoPaths": {
+    "gallaghersecurity/threat-dragon": [
+      "c:\\projects\\threat-dragon"
+    ]
+  },
+  "oauthAccount": {
+    "accountUuid": "ff42f8e8-733a-45dc-a190-751b19f9cbc9",
+    "emailAddress": "ajith.penmatsa001@gmail.com",
+    "organizationUuid": "0fa866ac-cf61-4325-8c48-5826b537dbb6",
+    "hasExtraUsageEnabled": false,
+    "displayName": "Ajith"
+  },
+  "s1mAccessCache": {
+    "0fa866ac-cf61-4325-8c48-5826b537dbb6": {
+      "hasAccess": false,
+      "hasAccessNotAsDefault": false,
+      "timestamp": 1768421053445
+    }
+  }
+}
